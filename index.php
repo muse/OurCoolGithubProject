@@ -10,4 +10,5 @@
  */
 
 echo 'test';
+print 'memesssss';
 ?>
