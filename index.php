@@ -9,6 +9,6 @@
  * @license MIT
  */
 
-echo 'test';
+echo 'Hippe memes.';
 print 'memesssss';
 ?>
